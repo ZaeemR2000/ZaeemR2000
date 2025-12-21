@@ -39,6 +39,8 @@ class Zaeem(Person):
     def __init__(self):
         self.name = "Zaeem Rashid"
         self.location = "Dallas, TX"
+        self.age = 25
+        self.alive = True  # still going strong 💪
         self.education = [
             "BS Computer Science - UT Dallas",
             "MS Computer Science"
