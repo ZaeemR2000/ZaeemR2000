@@ -100,7 +100,6 @@ class Zaeem(Person):
 ### 📜 Certifications
 
 - 🏗️ AWS Solution Architect — *In Progress*  
-- 🤖 AI / Machine Learning — *In Progress*  
-- 🧠 Computer Science & Systems — *In Progress*  
+- 🤖 AI / Machine Learning — *In Progress*    
 
 > Currently working toward certifications and formal credentials to complement hands-on experience.
