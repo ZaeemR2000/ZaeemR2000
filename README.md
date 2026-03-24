@@ -42,8 +42,8 @@ class Zaeem(Person):
         self.age = 25
         self.alive = True  # still going strong 💪
         self.education = [
-            "BS Computer Science - UT Dallas",
-            "MS Computer Science"
+            "MS Computer Science - Georgia Institute of Technology",
+            "BS Computer Science - UT Dallas"
         ]
         self.current_role = "AI Software Engineering Intern @ Mercedes-Benz R&D"
         self.interests = [
